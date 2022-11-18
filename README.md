@@ -15,6 +15,3 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=percyfrank&show_icons=true&theme=buefy&hide=stars,contribs&include_all_commits=true)
 </div>
-
-
-
